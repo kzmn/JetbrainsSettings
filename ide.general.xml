@@ -27,7 +27,6 @@
     <entry key="ide.borderless.title.classpath" value="false" />
     <entry key="ide.borderless.title.product" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
-    <entry key="actionSystem.fix.alt.gr" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="rider.enable.designer.winForms" value="true" />
   </component>
