@@ -28,5 +28,6 @@
     <entry key="ide.borderless.title.product" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
