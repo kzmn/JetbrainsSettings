@@ -3,4 +3,7 @@
     <option name="dockerComposePath" value="docker-compose" />
     <option name="dockerMachinePath" value="docker-machine" />
   </component>
+  <component name="DockerTreeFilter">
+    <option name="myStoppedContainersHidden" value="true" />
+  </component>
 </application>
