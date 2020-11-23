@@ -3,7 +3,7 @@
     <property name="created">2018-01-31T09:40:29</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2020-04-29T15:23:04</property>
+    <property name="modified">2020-11-23T08:54:02</property>
     <property name="originalScheme">DK Monokai</property>
   </metaInfo>
   <colors>
@@ -24774,6 +24774,12 @@
       <value>
         <option name="FOREGROUND" value="fef629" />
         <option name="ERROR_STRIPE_COLOR" value="287bde" />
+      </value>
+    </option>
+    <option name="TS.TYPE_GUARD">
+      <value>
+        <option name="EFFECT_COLOR" value="534f4f" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
