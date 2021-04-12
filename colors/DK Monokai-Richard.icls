@@ -4,7 +4,7 @@
     <property name="created">2018-01-31T09:40:29</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2021-03-17T07:49:03</property>
+    <property name="modified">2021-04-12T10:11:20</property>
     <property name="originalScheme">DK Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -20,6 +20,7 @@
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1c1c1c" />
+    <option name="DOCUMENTATION_COLOR" value="1c1c1c" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
