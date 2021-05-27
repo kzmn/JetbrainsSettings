@@ -162,6 +162,11 @@
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="XamarinAndroidProject">
+                    <value>
+                      <FeaturePluginData displayName="Xamarin.Android" pluginName="Rider Xamarin Android Support" pluginId="com.jetbrains.rider.android" />
+                    </value>
+                  </entry>
                   <entry key="XamarinIOSProject">
                     <value>
                       <FeaturePluginData displayName="Xamarin.iOS" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
