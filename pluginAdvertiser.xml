@@ -7,6 +7,26 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="AzureDotNetWebAppPublish">
+                    <value>
+                      <FeaturePluginData displayName="Azure - Publish Web App" pluginName="Azure Toolkit for Rider" pluginId="com.intellij.resharper.azure" />
+                    </value>
+                  </entry>
+                  <entry key="AzureFunctionAppPublish">
+                    <value>
+                      <FeaturePluginData displayName="Azure - Publish Function App" pluginName="Azure Toolkit for Rider" pluginId="com.intellij.resharper.azure" />
+                    </value>
+                  </entry>
+                  <entry key="AzureFunctionsHost">
+                    <value>
+                      <FeaturePluginData displayName="Azure Functions host" pluginName="Azure Toolkit for Rider" pluginId="com.intellij.resharper.azure" />
+                    </value>
+                  </entry>
+                  <entry key="CAKE_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Cake" pluginName="Cake for Rider" pluginId="net.cakebuild.cakerider" />
+                    </value>
+                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
@@ -162,6 +182,11 @@
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="XamarinAndroidProject">
+                    <value>
+                      <FeaturePluginData displayName="Xamarin.Android" pluginName="Rider Xamarin Android Support" pluginId="com.jetbrains.rider.android" />
+                    </value>
+                  </entry>
                   <entry key="XamarinIOSProject">
                     <value>
                       <FeaturePluginData displayName="Xamarin.iOS" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
@@ -200,6 +225,26 @@
                   <entry key="mocha-javascript-test-runner">
                     <value>
                       <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FeaturePluginsList>
+          </value>
+        </entry>
+        <entry key="com.intellij.facetType">
+          <value>
+            <FeaturePluginsList>
+              <option name="featureMap">
+                <map>
+                  <entry key="android">
+                    <value>
+                      <FeaturePluginData displayName="Android" pluginName="Rider Xamarin Android Support" pluginId="com.jetbrains.rider.android" />
+                    </value>
+                  </entry>
+                  <entry key="native-android-gradle">
+                    <value>
+                      <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Rider Xamarin Android Support" pluginId="com.jetbrains.rider.android" />
                     </value>
                   </entry>
                 </map>
