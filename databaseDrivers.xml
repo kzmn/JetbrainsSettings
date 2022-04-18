@@ -1,0 +1,13 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="sqlserver.ms">
+      <artifact id="SQL Server" name="SQL Server" use="true" version="9.4.0" />
+    </driver>
+    <driver id="azure.ms">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="mysql.8">
+      <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
+    </driver>
+  </component>
+</application>

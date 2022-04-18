@@ -1,7 +1,9 @@
 <application>
   <component name="CodeLensSettings">
     <enabled>
-      <map />
+      <map>
+        <entry key="CognitiveComplexityCodeInsightsProvider" value="true" />
+      </map>
     </enabled>
   </component>
 </application>
