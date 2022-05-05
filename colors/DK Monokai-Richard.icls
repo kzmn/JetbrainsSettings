@@ -4,7 +4,7 @@
     <property name="created">2018-01-31T09:40:29</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2022-05-05T13:18:55</property>
+    <property name="modified">2022-01-14T11:32:02</property>
     <property name="originalScheme">DK Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -43,7 +43,6 @@
     <option name="LOOKUP_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="5b5a4e" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
@@ -547,7 +546,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_COLOR" value="e5e7e8" />
         <option name="ERROR_STRIPE_COLOR" value="96d22f" />
       </value>
     </option>
@@ -24832,7 +24831,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_COLOR" value="e5e7e8" />
         <option name="ERROR_STRIPE_COLOR" value="96d22f" />
       </value>
     </option>
