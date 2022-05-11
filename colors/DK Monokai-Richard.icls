@@ -4,7 +4,7 @@
     <property name="created">2018-01-31T09:40:29</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2022-01-14T11:32:02</property>
+    <property name="modified">2022-05-06T08:37:19</property>
     <property name="originalScheme">DK Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -606,8 +606,6 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="JADE_STATEMENTS">
       <value>
         <option name="FOREGROUND" value="a7e22e" />
@@ -24576,6 +24574,52 @@
         <option name="FOREGROUND" value="787878" />
         <option name="ERROR_STRIPE_COLOR" value="808080" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="OC.CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="f89720" />
+      </value>
+    </option>
+    <option name="OC.GENERIC_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="a6e22e" />
+      </value>
+    </option>
+    <option name="OC.MACRONAME">
+      <value>
+        <option name="FOREGROUND" value="f92672" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.MESSAGE_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="ff80c0" />
+      </value>
+    </option>
+    <option name="OC.METHOD_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="ff80c0" />
+      </value>
+    </option>
+    <option name="OC.NAMESPACE_LIKE">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="OC.PROTOCOL_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="a6e22e" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="ae81ff" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="f89720" />
       </value>
     </option>
     <option name="PARAMETER_ATTRIBUTES">
