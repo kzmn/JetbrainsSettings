@@ -280,6 +280,10 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </MySQLCodeStyleSettings>
+  <Objective-C>
+    <option name="SPACE_BEFORE_POINTER_IN_DECLARATION" value="false" />
+    <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
+  </Objective-C>
   <OracleCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="TYPE_CASE" value="3" />
