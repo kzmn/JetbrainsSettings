@@ -32,6 +32,5 @@
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="eslint.additional.file.extensions" value="svelte" />
     <entry key="rider.enable.designer.winForms" value="false" />
-    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
