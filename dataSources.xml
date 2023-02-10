@@ -1,0 +1,18 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="DevMother" uuid="30b5a5f3-c845-44c0-a5ba-713083e37bb0">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://plt-sqldev-vm:1450/devMother</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="DOMAIN" value="PLTDOMAIN" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <driver-properties>
+        <property name="DOMAIN" value="PLTDOMAIN" />
+        <property name="USENTLMV2" value="true" />
+      </driver-properties>
+    </data-source>
+  </component>
+</application>
